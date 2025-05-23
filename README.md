@@ -1,7 +1,6 @@
 # GAEL'S RP2040 Board
 
-![Top View]
-![Bottom View]
+
 
 ## Overview
 
