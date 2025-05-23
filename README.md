@@ -1,7 +1,7 @@
 # GAEL'S RP2040 Board
 
-![Top View](https://raw.githubusercontent.com/yourusername/rp2040-board/main/images/3D_viewer_top_side.jpg)
-![Bottom View](https://raw.githubusercontent.com/yourusername/rp2040-board/main/images/3D_viewer_bottom_side.jpg)
+![Top View]
+![Bottom View]
 
 ## Overview
 
