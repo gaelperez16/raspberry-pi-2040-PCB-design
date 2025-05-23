@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the complete KiCad project, schematic, PCB layout, 3D renders, and images of the final assembled board for **Gael’s custom RP2040 development board**. It includes a USB-C power interface, LIS3DH accelerometer for motion sensing, push buttons, LEDs, and header pins for debugging and expansion. 
+This repository contains the complete KiCad project, schematic, PCB layout, 3D renders, and images of the final assembled board for **Gael’s custom RP2040 development board**. It includes a USB-B power interface, LIS3DH accelerometer for motion sensing, push buttons, LEDs, and header pins for debugging and expansion. 
 
 Designed to be compact and circular, this board is suitable for embedded applications, including wearable tech and motion-aware devices.
 
