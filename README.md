@@ -30,7 +30,7 @@ Designed to be compact and circular, this board is suitable for embedded applica
 |----------------|-------------------------------------------------------------------|------------------|
 | [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html) | Dual-core ARM Cortex M0+ microcontroller | [PDF Datasheet](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf) |
 | [LIS3DH](https://www.st.com/en/mems-and-sensors/lis3dh.html)                     | Low-power 3-axis accelerometer             | [PDF Datasheet](https://www.st.com/resource/en/datasheet/lis3dh.pdf) |
-| [AMS1117-3.3](https://www.advanced-monolithic.com/pdf/ds1117.pdf)                | 3.3V Linear Voltage Regulator              | [PDF Datasheet](https://www.advanced-monolithic.com/pdf/ds1117.pdf) |
+| [AMS1117-3.3](https://www.advanced-monolithic.com/pdf/ds1117.pdf)                | 3.3V Linear Voltage Regulator              | [PDF Datasheet]) |
 | USB Micro-B Connector | USB interface for power and programming           | [Example Part](https://www.sparkfun.com/products/9966) |
 | 12 MHz Crystal Oscillator | Provides clock source for RP2040                    | [Typical Part](https://www.digikey.com/en/products/detail/ecs-inc/ECS-120-12-33A-EN/3083686) |
 
